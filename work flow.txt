@@ -1,0 +1,8 @@
+------- work flow for credit card fraud detection --------------------
+
+
+     credit card data -----------> data pre processing -------> data analysis ---------->train test split
+                                                                                               |
+                                                                                               |
+
+                                                               evaluation <------------- logistic regrassion model
