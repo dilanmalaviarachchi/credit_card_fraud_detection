@@ -9,7 +9,7 @@ This project aims to develop a credit card fraud detection system using a struct
 ##Workflow Overview##
 Credit Card Data --> Data Preprocessing --> Data Analysis --> Train-Test Split -----------> Logistic Regression Model ----------------> Evaluation 
 Workflow Steps
-#1. Credit Card Data#
+##1. Credit Card Data##
 The project starts with a dataset containing credit card transactions. This dataset includes transaction amount, time, and anonymized features derived from the original data.
 
 #2. Data Preprocessing#
